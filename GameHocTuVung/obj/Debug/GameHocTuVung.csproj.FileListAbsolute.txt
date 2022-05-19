@@ -1,0 +1,9 @@
+D:\DuAn\GameHocTuVung\GameHocTuVung\bin\Debug\GameHocTuVung.exe.config
+D:\DuAn\GameHocTuVung\GameHocTuVung\bin\Debug\GameHocTuVung.exe
+D:\DuAn\GameHocTuVung\GameHocTuVung\bin\Debug\GameHocTuVung.pdb
+D:\DuAn\GameHocTuVung\GameHocTuVung\obj\Debug\GameHocTuVung.frmMain.resources
+D:\DuAn\GameHocTuVung\GameHocTuVung\obj\Debug\GameHocTuVung.Properties.Resources.resources
+D:\DuAn\GameHocTuVung\GameHocTuVung\obj\Debug\GameHocTuVung.csproj.GenerateResource.Cache
+D:\DuAn\GameHocTuVung\GameHocTuVung\obj\Debug\GameHocTuVung.exe
+D:\DuAn\GameHocTuVung\GameHocTuVung\obj\Debug\GameHocTuVung.pdb
+D:\DuAn\GameHocTuVung\GameHocTuVung\obj\Debug\GameHocTuVung.csprojResolveAssemblyReference.cache
